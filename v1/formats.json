@@ -599,7 +599,7 @@
     {
       "filename": "archdale-y10.xml",
       "url": "https://formats.debatekeeper.czlee.nz/v1/formats/archdale-y10.xml",
-      "version": 1,
+      "version": 2,
       "info": {
         "": {
           "name": "IGSA Archdale Debating Competition (Y10)",
@@ -612,7 +612,7 @@
           "used-ats": [
             "IGSA Archdale Debating Competition"
           ],
-          "description": "3 vs 3, 8-minute speeches, no replies, no POIs"
+          "description": "3 vs 3, 7-minute speeches, no replies, no POIs"
         }
       }
     },
